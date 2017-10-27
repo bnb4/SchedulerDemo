@@ -1,2 +1,2 @@
 # SchedulerDemo
-Scheduler demo for java using FCFS、RR、PSJF、NPSJF and Proirity
+Scheduler demo including FCFS、RR、PSJF、NPSJF and Proirity using JAVA.
